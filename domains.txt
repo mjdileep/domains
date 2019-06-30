@@ -1,1 +1,1 @@
-https://w.ikman-st.com/dist/15617218/js/lg/item.js
+https://w.ikman-st.com/dist/15617218/js/lg/item.js -w 100
